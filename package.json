@@ -2,7 +2,13 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Arturo David Ochoa Surco",
 	"description": "A project that does something awesome",
-	"keywords": [ "project", "sample", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.1.0",
+	"keywords": [
+		"project",
+		"sample",
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
